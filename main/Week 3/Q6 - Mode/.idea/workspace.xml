@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="535563da-fc36-4bcc-a249-124c1a8c4e64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wm9V7LFyR3gvurq1cwCA3NvOSR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Gradle.ModeTest">
+    <configuration name="Mode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode" />
+      <module name="Q6_-_Mode.main" />
+      <option name="PROGRAM_PARAMETERS" value="1 1 1 7 7 8 3 9 8 8 8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ModeTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Mode" />
+      <item itemvalue="Gradle.ModeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ModeTest" />
+        <item itemvalue="Application.Mode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="535563da-fc36-4bcc-a249-124c1a8c4e64" name="Default Changelist" comment="" />
+      <created>1579743923692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579743923692</updated>
+      <workItem from="1579743926474" duration="2463000" />
+      <workItem from="1579818904120" duration="100000" />
+      <workItem from="1580313847587" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1697" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579745390280">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1697" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1579745390280" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579818953181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579818953181" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579746391206">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1579746391206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579746391206">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1579746391206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579746391206">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1579746391206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579746391206">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1579746391206" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579818916849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579818916849" />
+    <state x="209" y="25" key="new project wizard" timestamp="1579819001649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="25" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579819001649" />
+  </component>
+</project>
