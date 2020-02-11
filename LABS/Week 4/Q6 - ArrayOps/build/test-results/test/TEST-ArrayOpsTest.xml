@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayOpsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-05T16:32:23" hostname="gabica.inf.ed.ac.uk" time="1.422">
+  <properties/>
+  <testcase name="testReverseInPlace" classname="ArrayOpsTest" time="1.422"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
