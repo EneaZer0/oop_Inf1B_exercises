@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorHandlingExceptionTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-02-18T00:11:10" hostname="MSI" time="31.651">
+  <properties/>
+  <testcase name="testFormatText" classname="ErrorHandlingExceptionTest" time="31.651">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

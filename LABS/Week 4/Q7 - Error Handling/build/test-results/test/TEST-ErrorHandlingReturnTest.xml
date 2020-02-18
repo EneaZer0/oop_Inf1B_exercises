@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ErrorHandlingReturnTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-02-05T20:53:31" hostname="MSI" time="1062.738">
-  <properties/>
-  <testcase name="testSpam" classname="ErrorHandlingReturnTest" time="1062.738">
-    <skipped/>
-  </testcase>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

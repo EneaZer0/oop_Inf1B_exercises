@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9a30c4-78e5-443b-a618-a648f280f121" name="Default Changelist" comment="" />
+    <list default="true" id="6f9a30c4-78e5-443b-a618-a648f280f121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/.idea/TUTORIAL 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/BinaryToDecimal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/src/BinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/BinaryToDecimal/test/BinaryConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TUTORIAL 3/material/air-quality/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1XNpy5ZDhIrEtILUHH1KM0GghoY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,9 +56,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../foxhoundgame/THE BIG PROJECT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../foxhoundgame/THE BIG PROJECT" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -90,6 +120,10 @@
       <workItem from="1580945960808" duration="2687000" />
       <workItem from="1581097540928" duration="1888000" />
       <workItem from="1581379218599" duration="1044000" />
+      <workItem from="1581610981797" duration="4519000" />
+      <workItem from="1581620689386" duration="18000" />
+      <workItem from="1581628527699" duration="1268000" />
+      <workItem from="1581636897301" duration="35000" />
     </task>
     <servers />
   </component>
@@ -101,10 +135,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580896682929" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581379250089">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581636929720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581379250089" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581636929720" />
     <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1580947284628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -121,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580947284628" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581379220267">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581636903028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581379220267" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581636903028" />
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580898279960">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

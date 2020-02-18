@@ -10,78 +10,78 @@ import org.junit.Test;
 
 public class ErrorHandlingExceptionTest {
 
-    private boolean stdCapStarted;
-    private OutputStream tmpStdOut;
-    private PrintStream originalStdOut;
+  private boolean stdCapStarted;
+  private OutputStream tmpStdOut;
+  private PrintStream originalStdOut;
 
-    private void stdCaptureStart() {
-        if (stdCapStarted)
-            throw new RuntimeException("Capture needs to be stopped before it can be started");
+  private void stdCaptureStart() {
+    if (stdCapStarted)
+      throw new RuntimeException("Capture needs to be stopped before it can be started");
 
-        stdCapStarted = true;
-        tmpStdOut = new ByteArrayOutputStream();
-        originalStdOut = System.out;
-        System.setOut(new PrintStream(tmpStdOut));
-    }
+    stdCapStarted = true;
+    tmpStdOut = new ByteArrayOutputStream();
+    originalStdOut = System.out;
+    System.setOut(new PrintStream(tmpStdOut));
+  }
 
-    private void stdCaptureStop() {
-        if (!stdCapStarted)
-            throw new RuntimeException("Capture needs to be started before it can be stopped");
+  private void stdCaptureStop() {
+    if (!stdCapStarted)
+      throw new RuntimeException("Capture needs to be started before it can be stopped");
 
-        stdCapStarted = false;
-        System.setOut(originalStdOut);
-        originalStdOut = null;
-        tmpStdOut = null;
-    }
+    stdCapStarted = false;
+    System.setOut(originalStdOut);
+    originalStdOut = null;
+    tmpStdOut = null;
+  }
 
-    private String getCapturedStdOut() {
-        if (tmpStdOut == null)
-            throw new RuntimeException("Nothing captured.");
+  private String getCapturedStdOut() {
+    if (tmpStdOut == null)
+      throw new RuntimeException("Nothing captured.");
 
-        return tmpStdOut.toString();
-    }
-/*
-    @Test
-    public void testLowerAndTrim() {
-        String input = " AaaAaaBCDf  ";
-        String expected = "aaaaaabcdf";
-        String output = ErrorHandlingReturn.lowerAndTrim(input);
-        assertEquals(expected, output);
-    }
+    return tmpStdOut.toString();
+  }
 
-    @Test(expected = NullPointerException.class)
-    public void testLowerAndTrimNull() {
-        ErrorHandlingReturn.lowerAndTrim(null);
-    }
+  @Test
+  public void testLowerAndTrim() {
+    String input = " AaaAaaBCDf  ";
+    String expected = "aaaaaabcdf";
+    String output = ErrorHandlingException.lowerAndTrim(input);
+    assertEquals(expected, output);
+  }
 
-    private void checkFormatText(String expectedStdOut, String[] data) {
-        String stdOut = null;
+  @Test(expected = NullPointerException.class)
+  public void testLowerAndTrimNull() {
+    ErrorHandlingException.lowerAndTrim(null);
+  }
 
-        stdCaptureStart();
+  private void checkFormatText(String expectedStdOut, String[] data) {
+    String stdOut = null;
 
-        ErrorHandlingReturn.formatText(data);
+    stdCaptureStart();
 
-        stdOut = getCapturedStdOut().trim();
+    ErrorHandlingException.formatText(data);
 
-        stdCaptureStop();
+    stdOut = getCapturedStdOut().replaceAll("\r","").trim();
 
-        assertEquals(expectedStdOut, stdOut);
-    }
+    stdCaptureStop();
 
-    @Test
-    public void testFormatText() {
+    assertEquals(expectedStdOut, stdOut);
+  }
 
-        String expectedStdOut = "hello, world!\n\nno pain, no gain\n2";
-        String[] data = { "Hello, World!  ", null, "", "  No Pain, No Gain  ", null };
-        checkFormatText(expectedStdOut, data);
+  @Test
+  public void testFormatText() {
 
-        expectedStdOut = "4";
-        data = new String[]{ null,null,null,null };
-        checkFormatText(expectedStdOut, data);
+    String expectedStdOut = "hello, world!\n\nno pain, no gain\n2";
+    String[] data = { "Hello, World!  ", null, "", "  No Pain, No Gain  ", null };
+    checkFormatText(expectedStdOut, data);
 
-        expectedStdOut = "abcdef\naaaaaaa\n0";
-        data = new String[]{ "AbCdEf    ", "AaaAaaA\n" };
-        checkFormatText(expectedStdOut, data);
-    }
-*/
+    expectedStdOut = "4";
+    data = new String[]{ null,null,null,null };
+    checkFormatText(expectedStdOut, data);
+
+    expectedStdOut = "abcdef\naaaaaaa\n0";
+    data = new String[]{ "AbCdEf    ", "AaaAaaA\n" };
+    checkFormatText(expectedStdOut, data);
+  }
+
 }

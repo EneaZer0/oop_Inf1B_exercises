@@ -1,39 +1,31 @@
 public class ErrorHandlingReturn {
 
-    public static boolean birthdayGreetings(String name, int age) {
-        boolean success;
+  public static boolean birthdayGreetings(String name, int age) {
+    boolean success;
 
-        if (age > 0) {
-            System.out.println("All the best to your " + age + ". birthday " + name);
-            success = true;
-        } else {
-            System.err.println("ERROR: The given age must be larger zero but is: " + age);
-            success = false;
-            // throw new IllegalArgumentException("ERROR: The given age must be larger zero but is:" + age);
-        }
-
-        return success;
-
+    if (age > 0) {
+      System.out.println("All the best to your " + age + ". birthday " + name);
+      success = true;
+    } else {
+      System.err.println("ERROR: The given age must be larger zero but is: " + age);
+      success = false;
     }
 
-    public static void spam (String[] names, int[] ages) {
+    return success;
+  }
 
-        for (int i = 0; i < names.length; i++ ) {
+  public static void spam (String[] names, int[] ages) {
+    String[] result = new String[names.length];
 
-            if (ages[i] > 0) {
-                birthdayGreetings(names[i], ages[i]);
-            } else {
-                birthdayGreetings(names[i], 20);
-            }
+    int k = 0;
 
-        }
+    while (k < names.length) {
+      boolean valid = birthdayGreetings(names[k], ages[k]);
+      if (valid == false) {
+        valid = birthdayGreetings(names[k], 20);
 
+      }
+      k++;
     }
-
-    public static void main(String[] args) {
-        String[] names = {"Peter","Sarah","Ivan"};
-        int[] ages = {23,-5,35};
-        spam(names, ages);
-    }
-
+  }
 }
