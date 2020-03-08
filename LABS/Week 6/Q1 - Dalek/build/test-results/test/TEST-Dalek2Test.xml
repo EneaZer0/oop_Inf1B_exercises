@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Dalek2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-08T01:38:31" hostname="N0-SurfacePro7" time="130.044">
+  <properties/>
+  <testcase name="testCallingMain" classname="Dalek2Test" time="130.044"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

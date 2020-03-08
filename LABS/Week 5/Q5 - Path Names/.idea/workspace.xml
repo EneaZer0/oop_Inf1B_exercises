@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9118121-4f31-44e8-ae5b-ce2b62f057aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yh1E91yjk9VQ15eD33HEhtdzPd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week 4/Q1 - No Triples" />
+  </component>
+  <component name="RunManager" selected="Gradle.SplitPathNameTest.testCallingMain">
+    <configuration name="SplitPathNameTest.testCallingMain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SplitPathNameTest.testCallingMain&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SplitPathNameTest.testSplitPath_fullPath" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SplitPathNameTest.testSplitPath_fullPath&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SplitPathNameTest.testCallingMain" />
+        <item itemvalue="Gradle.SplitPathNameTest.testSplitPath_fullPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9118121-4f31-44e8-ae5b-ce2b62f057aa" name="Default Changelist" comment="" />
+      <created>1583379897637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583379897637</updated>
+      <workItem from="1583379900420" duration="879000" />
+      <workItem from="1583407233138" duration="1516000" />
+      <workItem from="1583424708942" duration="3249000" />
+      <workItem from="1583428011791" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1583428326793">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583428326793" />
+    <state x="465" y="192" key="FileChooserDialogImpl/2736.338.1536.800/0.0.1368.872@0.0.1368.872" timestamp="1583407266737" />
+    <state width="1326" height="398" key="GridCell.Tab.0.bottom" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.0.center" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.0.left" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.0.right" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.1.bottom" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.1.center" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.1.left" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state width="1326" height="398" key="GridCell.Tab.1.right" timestamp="1583428327822">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="398" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1583428327822" />
+    <state x="414" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583428019847">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="414" y="259" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583428019847" />
+    <state x="3201" y="576" key="com.intellij.ide.util.TipDialog/2736.338.1536.800/0.0.1368.872@2736.338.1536.800" timestamp="1583407232577" />
+    <state x="377" y="33" width="613" height="804" key="find.popup" timestamp="1583425000567">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="377" y="33" width="613" height="804" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1583425000567" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SplitPathNameTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SplitPathNameTest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
