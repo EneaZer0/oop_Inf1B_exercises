@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Dalek3Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-17T11:26:41" hostname="DESKTOP-P2LTMGC" time="0.004">
+  <properties/>
+  <testcase name="testSpeak_withSayings" classname="Dalek3Test" time="0.002"/>
+  <testcase name="testSpeak_noSayings" classname="Dalek3Test" time="0.001"/>
+  <testcase name="testCallingMain" classname="Dalek3Test" time="0.0"/>
+  <testcase name="testSpeak_addSaying" classname="Dalek3Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

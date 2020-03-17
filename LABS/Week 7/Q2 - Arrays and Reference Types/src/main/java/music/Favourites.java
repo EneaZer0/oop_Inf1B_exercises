@@ -1,23 +1,25 @@
+package music;
+import java.util.ArrayList;
 import com.sun.org.apache.bcel.internal.generic.MULTIANEWARRAY;
 
-        import java.util.SortedMap;
+import java.util.SortedMap;
 
 public class Favourites {
 
-    private String[] musicTrack;
+    private ArrayList<MusicTrack> musicTrack;
     private int counter;
     private MusicTrack excess;
 
     public Favourites(){
-        musicTrack = new String[5];
         counter = 0;
         excess = null;
+        musicTrack = new ArrayList<>();
     }
 
     public void addTrack(String artist, String title){
 
-        if ( counter < 5 && artist != null && title != null) {
-            musicTrack[counter] = new MusicTrack(artist,title).toString();
+        if (artist != null && title != null) {
+            musicTrack.add(new MusicTrack(artist,title));
             counter++;
         } else {
             excess = new MusicTrack(artist,title);
@@ -27,15 +29,13 @@ public class Favourites {
 
     }
 
-
-    public  void showFavourites() {
-        if (musicTrack[0] != null) {
-            for (int i = 0; i < musicTrack.length; i++) {
-                if (musicTrack[i] != null) {
-                    System.out.println(musicTrack[i]);
+    public void showFavourites() {
+        if (musicTrack.size() != 0) {
+            for (int i = 0; i < musicTrack.size(); i++) {
+                if (musicTrack.get(i) != null) {
+                    System.out.println(musicTrack.get(i).toString());
                 }
             }
         }
     }
-
 }
