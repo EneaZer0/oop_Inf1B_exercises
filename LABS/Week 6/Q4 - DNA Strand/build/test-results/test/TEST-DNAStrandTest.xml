@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DNAStrandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-08T16:38:56" hostname="N0-SurfacePro7" time="0.002">
+  <properties/>
+  <testcase name="testToString" classname="DNAStrandTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

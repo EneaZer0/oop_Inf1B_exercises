@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImageEditor2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-17T11:13:14" hostname="DESKTOP-P2LTMGC" time="0.042">
+  <properties/>
+  <testcase name="testThreshold2" classname="ImageEditor2Test" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
